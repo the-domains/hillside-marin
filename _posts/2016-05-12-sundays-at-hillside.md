@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Our Sunday morning services are at 9:00am and 10:30am. We would love for you to join us. At Hillside you can expect good upbeat music, thought provoking teaching that will challenge and inspire you, and a community of people that will welcome you with a smile. We know that visiting a church for the first time can be intimidating. This page should answer most of your questions and let you know what to expect. '
-datePublished: '2016-05-12T04:55:57.925Z'
-dateModified: '2016-05-12T04:55:51.703Z'
+datePublished: '2016-05-12T05:09:58.074Z'
+dateModified: '2016-05-12T04:56:04.258Z'
 title: Sundays at Hillside
 author: []
+sourcePath: _posts/2016-05-12-sundays-at-hillside.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-sundays-at-hillside.md
 url: sundays-at-hillside/index.html
 _type: Article
 
