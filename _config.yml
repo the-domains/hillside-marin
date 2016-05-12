@@ -1,7 +1,7 @@
 name: Hillside Marin
 favicon: null
-layout_spectrum: 0.9329703357070684
-typography_spectrum: 0.5493106262292713
+layout_spectrum: 0.54735
+typography_spectrum: 0.56767
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.15636054589413106
+    - '#000000'
+    - '#a4b8b9'
+    - '#f0d6a5'
+    - '#ffffff'
+    - '#6c5b3d'
+  brandStrength: 0.3125
   lightness: 0.26444984693080187
   saturation: 0.80273179220967
-  rhythmicContrast: 0.0984187365975231
+  rhythmicContrast: 0.25
 purpose: []
